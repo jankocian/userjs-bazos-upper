@@ -1,1 +1,1 @@
-# userjs-bazos-upper
+# Bazoš upper - user.js
