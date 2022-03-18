@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         Bazos upper
 // @version      1.2
-// @downloadURL  https://utils.jankocian.com/bazos-upper.user.js
+// @downloadURL  https://github.com/jankocian/userjs-bazos-upper/raw/main/bazos-upper.user.js
 // @author       Jan Kocian
 // @match        https://*.bazos.cz/inzerat/*
 // @match        https://*.bazos.cz/pridat-inzerat.php
